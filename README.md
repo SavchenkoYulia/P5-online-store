@@ -10,11 +10,3 @@ This project focuses on building the core components of an e-commerce store usin
 
 ## Task Description
 The task involves creating basic functions to manage products in an online store. The system must be able to handle multiple product types, including **electronics**, **clothing**, and **books**, while ensuring that all operations are type-safe and scalable.
-
-
-
-
-
-# P5-online-store
-# P5-online-store
-# P5-online-store
